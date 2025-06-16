@@ -31,8 +31,15 @@ https://negociatumente.com/guia-redes
 
 ### 2️⃣ Instalación  
 **🔹Instalar PHP y Apache:**  
+Para la version más actual en ubuntu:
 ```bash
-sudo apt update && sudo apt install apache2 php8.4 -y
+sudo apt update && sudo apt install apache2 php8.2 -y
+```
+Si se quisiera meter una versión más moderna, isntalar primero:
+```bash
+sudo apt install software-properties-common -y
+sudo apt-get install python3-launchpadlib -y
+sudo LC_ALL=C.UTF-8 add-apt-repository ppa:ondrej/php
 ```
 
 **🔹Clona el repositorio:**  
