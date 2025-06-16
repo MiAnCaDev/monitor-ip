@@ -122,11 +122,8 @@
         <a href="https://negociatumente.com" target="_blank" class="font-bold hover:underline">
             Antonio Cañavate | Telemático
         </a>
-        <a href="https://github.com/negociatumente/monitor-ip" target="_blank" class="hover:underline mx-4">
+        <a href="https://github.com/MiAnCaDev/monitor-ip" target="_blank" class="hover:underline mx-4">
             Ver en GitHub
-        </a> <a href="https://negociatumente.com/guia-redes/" target="_blank" class="hover:underline mx-4">
-            Quiero aprender más
-        </a>
     </p>
      
     
