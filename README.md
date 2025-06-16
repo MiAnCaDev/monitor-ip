@@ -32,7 +32,7 @@ https://negociatumente.com/guia-redes
 ### 2️⃣ Instalación  
 **🔹Instalar PHP y Apache:**  
 ```bash
-sudo apt update && sudo apt install apache2 php -y
+sudo apt update && sudo apt install apache2 php8.4 -y
 ```
 
 **🔹Clona el repositorio:**  
