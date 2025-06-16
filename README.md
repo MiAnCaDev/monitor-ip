@@ -37,7 +37,7 @@ sudo apt update && sudo apt install apache2 php8.4 -y
 
 **🔹Clona el repositorio:**  
 ```bash
-git clone https://github.com/negociatumente/monitor-ip.git
+git clone https://github.com/MiAnCaDev/monitor-ip.git
 ```
 
 **🔹Mueve el contenido del proyecto a la carpeta del servidor web:**
@@ -89,7 +89,7 @@ https://www.apachefriends.org/es/download.html
 
 ### 3️⃣ Descargar y configurar el proyecto
 **🔹Descargar el código ZIP:**  
-https://github.com/negociatumente/monitor-ip
+https://github.com/MiAnCaDev/monitor-ip
 
 **🔹Mueve la carpeta /monitor-ip que hay dentro de la carpeta /monitor-ip-main a la carpeta de htdocs:**  
 C:\xampp\htdocs\monitor-ip
